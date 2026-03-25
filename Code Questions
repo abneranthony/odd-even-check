@@ -1,0 +1,5 @@
+ Identify an expected user of your program. 
+        One expected user of this program is of a casual gamer that wants to use a simple-math puzzle in order to test their luck and knowledge of numbers. 
+
+ Describe one way your program’s design meets the needs of this user.
+        The program design meets the needs of the user by its input validation (while loops) so the user has the most amazing time using it as many times as they need and ensuring a smooth experience.
