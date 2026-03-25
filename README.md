@@ -1,5 +1,5 @@
 # odd-even-check
-This project was created to practice fundamental logic and the modulo operator in JavaScript. This programs takes in the users input and evaluates whether is it odd or even.
+A computational utility focusing on algorithmic analysis and modular implementations in JavaScript to check if a number is odd or even.
 
 This project utilizes the JavaScript environment to perform rapid analysis on integer data types. Unlike basic calculators, this focuses on efficency and strict type-checking to categorize numbers based on their remainder. It then spits out if it is odd or even and then tells the user if they guessed one of the special numbers or not.
 
